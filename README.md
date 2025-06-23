@@ -1,6 +1,6 @@
 # Hello, I'm BK
-<a href="https://linkedin.com/in/[YourLinkedInProfile]"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/[YourGitHubUsername]"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/babarao-k-76202555/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/hackbaba"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
 
 I am a highly analytical and results-oriented Data Analyst with 5+ years of experience transforming complex data into actionable insights to drive business growth and optimize performance. Proficient in data visualization, database management, and statistical analysis. Proven ability to design, develop, and deploy robust reporting and dashboard solutions using Power BI and Tableau, extract and manipulate data with SQL, and perform in-depth analysis with Advanced Excel. I am passionate about leveraging data to solve real-world business challenges and eager to contribute my expertise to a dynamic team.
 
